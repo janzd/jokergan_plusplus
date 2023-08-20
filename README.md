@@ -1,1 +1,1 @@
-# jokergan_plusplus
+# JokerGAN++
